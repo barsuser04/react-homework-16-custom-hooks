@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-homework-16-custom-hooks/static/css/main.eaf6bba4.css",
+    "main.js": "/react-homework-16-custom-hooks/static/js/main.de31b271.js",
+    "index.html": "/react-homework-16-custom-hooks/index.html",
+    "main.eaf6bba4.css.map": "/react-homework-16-custom-hooks/static/css/main.eaf6bba4.css.map",
+    "main.de31b271.js.map": "/react-homework-16-custom-hooks/static/js/main.de31b271.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eaf6bba4.css",
+    "static/js/main.de31b271.js"
+  ]
+}
